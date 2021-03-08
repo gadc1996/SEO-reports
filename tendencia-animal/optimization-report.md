@@ -25,13 +25,24 @@ Para facilitar la lectura del documento se divide la pagina en varias secciones,
 ### Metakeyword
 Se agrego la etiqueta meta keywords al codigo fuente de la pagina.
 
+A continuacion se listan ejemplos de lo que se conoce como palabra clave de cola larga, estas son palabras o frases muy especificas, para las cuales es mas sencillo posicionar un producto, ya que el mercado de las palabras mas generales es demaciado competitivo, se busca empezar posicionando estas palabras, por ejemplo:
+
+| Palabra clave General    | Palabra clave de cola larga                    |
+| Ropa para animales       | Ropa de invierno para animales pequeños        |
+| Accesorios para mascotas | Accesorios de limpieza e higiene para mascotas |
+| Juguetes poara mascotas  | Juguetes de entrenamiento para mascotas        |
+
 ## Headers
-### H1
 Existian 3 etiquetas H1, se removio la primera que se encontraba en el logo de la pagina, ya que esto no es recomendable en cuestiones de SEO ya que no permite una correcta visualizacion de accesibilidad.
 
 Se coloco la segunda sobre la frase Tendendia Animal en la seccion de La Elegancia no es una opcion(Ver Acomodo de secciones).
 
 Se elimino la tercer etiqueta ya que por regla general solo debe existir una etiqueta H1 por cada documento.
+
+Se coloco cada titulo de seccion dentro de una etiqueta H2
+
+Ya que el footer es considerado una seccion los titulos que se encuentran en esta seccion fueron movidos a etiquetas H3, que tienen mayor reelevancia sobre las etiquetas H4 y H5
+
 
 ## Acomodo de secciones
 Se reordenaron las secciones de la siguiente manera:
